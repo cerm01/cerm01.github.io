@@ -1,3 +1,29 @@
-/*
-Custom Css
-*/
+.navbar {
+    display:inline-flex;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    margin-bottom:0%;
+    padding: 0;
+    box-shadow: 0 4px 6px -6px #222;
+}
+
+.lista {
+    columns: 2;
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+.parrafos{
+    text-align: left;
+    padding: auto;
+    margin: auto;
+}
+
+.transportes{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+
